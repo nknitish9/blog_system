@@ -2,6 +2,8 @@
 
 A fully functional blog system built with React.js that integrates with the REST Countries API.
 
+# [![Live Demo](https://img.shields.io/badge/View-Live--Demo-green)](https://blog-system-one.vercel.app/)
+
 ## Features
 
 - **List of Blogs**: Display a list of blog posts with relevant information
